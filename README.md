@@ -32,7 +32,7 @@ O endereço do exercício é o seguinte:
 
 Plataforma:
 
-[Heroku](https://www.heroku.com)
+[Vercel](https://www.vercel.com)
 
 ### **Desafio**
 
